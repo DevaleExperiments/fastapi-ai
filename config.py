@@ -26,3 +26,4 @@ if __name__ == "__main__":
     print(settings.embedding_model)
     print(settings.llm_base_url)
     print(settings.llm_model)
+
